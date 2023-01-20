@@ -1,8 +1,12 @@
 {
   "dependencies": [
     {
+      "name": "@next/eslint-plugin-next",
+      "type": "build"
+    },
+    {
       "name": "@types/node",
-      "version": "^12",
+      "version": "^16",
       "type": "build"
     },
     {
@@ -14,12 +18,63 @@
       "type": "build"
     },
     {
-      "name": "npm-check-updates",
-      "version": "^16",
+      "name": "@typescript-eslint/eslint-plugin",
+      "version": "^5",
+      "type": "build"
+    },
+    {
+      "name": "@typescript-eslint/parser",
+      "version": "^5",
+      "type": "build"
+    },
+    {
+      "name": "eslint-config-prettier",
+      "type": "build"
+    },
+    {
+      "name": "eslint-import-resolver-node",
+      "type": "build"
+    },
+    {
+      "name": "eslint-import-resolver-typescript",
+      "type": "build"
+    },
+    {
+      "name": "eslint-plugin-import",
+      "type": "build"
+    },
+    {
+      "name": "eslint-plugin-prettier",
+      "type": "build"
+    },
+    {
+      "name": "eslint",
+      "version": "^8",
+      "type": "build"
+    },
+    {
+      "name": "json-schema",
+      "type": "build"
+    },
+    {
+      "name": "prettier",
+      "type": "build"
+    },
+    {
+      "name": "prettier-plugin-tailwindcss",
       "type": "build"
     },
     {
       "name": "projen",
+      "type": "build"
+    },
+    {
+      "name": "standard-version",
+      "version": "^9",
+      "type": "build"
+    },
+    {
+      "name": "typedoc",
       "type": "build"
     },
     {
