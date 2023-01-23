@@ -23,7 +23,6 @@ const project = new web.NextJsTypeScriptProject({
   docgen: true,
   codeCov: true,
   tailwind: true,
-  dependabot: true,
   eslint: true,
   prettier: true,
   prettierOptions: {
