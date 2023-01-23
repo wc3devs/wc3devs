@@ -30,7 +30,7 @@
     "projen": "npx projen"
   },
   "devDependencies": {
-    "@next/eslint-plugin-next": "^13.1.3",
+    "@next/eslint-plugin-next": "^13.1.4",
     "@types/node": "^16",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
@@ -46,14 +46,14 @@
     "npm-check-updates": "^16",
     "prettier": "^2.8.3",
     "prettier-plugin-tailwindcss": "^0.2.1",
-    "projen": "^0.67.8",
+    "projen": "^0.67.11",
     "standard-version": "^9",
     "typedoc": "*",
     "typescript": "^4.9.4"
   },
   "dependencies": {
     "autoprefixer": "^10.4.13",
-    "next": "^13.1.3",
+    "next": "^13.1.4",
     "postcss": "^8.4.21",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
