@@ -45,9 +45,9 @@
     "npm-check-updates": "^16",
     "prettier": "^2.8.4",
     "prettier-plugin-tailwindcss": "^0.2.5",
-    "projen": "^0.68.13",
+    "projen": "^0.68.14",
     "standard-version": "^9",
-    "typedoc": "^0.23.27",
+    "typedoc": "^0.23.28",
     "typescript": "^4.9.5"
   },
   "dependencies": {
