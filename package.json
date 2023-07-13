@@ -33,7 +33,7 @@
     "@next/eslint-plugin-next": "^13.4.9",
     "@types/node": "^16",
     "@types/react": "^18.2.14",
-    "@types/react-dom": "^18.2.6",
+    "@types/react-dom": "^18.2.7",
     "@typescript-eslint/eslint-plugin": "^5",
     "@typescript-eslint/parser": "^5",
     "eslint": "^8",
@@ -45,7 +45,7 @@
     "npm-check-updates": "^16",
     "prettier": "^2.8.8",
     "prettier-plugin-tailwindcss": "^0.4.0",
-    "projen": "^0.71.133",
+    "projen": "^0.71.134",
     "standard-version": "^9",
     "typedoc": "^0.24.8",
     "typescript": "^4.9.5"
